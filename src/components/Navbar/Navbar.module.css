@@ -24,9 +24,9 @@
 }
 
 /* 🔹 Fixing Large Menu & Close Icons */
-.menuBtn img, .closeIcon {
-  width: 30px;  /* Adjust icon size */
-  height: 30px;
+.menuIcon, .closeIcon {
+  width: 10px;  /* Adjust icon size */
+  height: 10px;
 }
 
 .menu {
@@ -67,9 +67,9 @@
   }
 
   /* 🔹 Reduce Icon Size for Mobile */
-  .menuBtn img, .closeIcon {
-    width: 25px;
-    height: 25px;
+  .menuIcon , .closeIcon {
+    width: 10px;
+    height: 10px;
   }
 
   .menuItems {
