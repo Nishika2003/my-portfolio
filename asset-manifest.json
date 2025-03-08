@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.e5a7448f.css",
-    "main.js": "/my-portfolio/static/js/main.f6b28ed6.js",
+    "main.js": "/my-portfolio/static/js/main.7de9c719.js",
     "static/media/award.png": "/my-portfolio/static/media/award.f5d6644fc0d1b8383b10.png",
     "static/media/heroImage.png": "/my-portfolio/static/media/heroImage.e0db0a371528bbb1cd6c.png",
     "static/media/bglr.jpg": "/my-portfolio/static/media/bglr.cf29bd71411a1cf5ca0d.jpg",
@@ -36,6 +36,7 @@
     "static/media/roboto-math-400-normal.woff": "/my-portfolio/static/media/roboto-math-400-normal.3d3a272e5233c5fb1969.woff",
     "static/media/frontendIcon.png": "/my-portfolio/static/media/frontendIcon.cbca5eb9b6e7dd3dc65e.png",
     "static/media/excel.png": "/my-portfolio/static/media/excel.f500ae8140a5f30a92af.png",
+    "static/media/closeIcon.png": "/my-portfolio/static/media/closeIcon.d9e19f9f0f88ced632de.png",
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/my-portfolio/static/media/roboto-cyrillic-ext-400-normal.31476620b88eec076438.woff2",
     "static/media/roboto-cyrillic-ext-400-normal.woff": "/my-portfolio/static/media/roboto-cyrillic-ext-400-normal.5e3f232f89080810567d.woff",
     "static/media/outfit-latin-400-normal.woff2": "/my-portfolio/static/media/outfit-latin-400-normal.8f48df74b0b71f7810ab.woff2",
@@ -56,10 +57,10 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/my-portfolio/static/media/roboto-greek-ext-400-normal.a0baf7d6726d8f751a27.woff",
     "index.html": "/my-portfolio/index.html",
     "main.e5a7448f.css.map": "/my-portfolio/static/css/main.e5a7448f.css.map",
-    "main.f6b28ed6.js.map": "/my-portfolio/static/js/main.f6b28ed6.js.map"
+    "main.7de9c719.js.map": "/my-portfolio/static/js/main.7de9c719.js.map"
   },
   "entrypoints": [
     "static/css/main.e5a7448f.css",
-    "static/js/main.f6b28ed6.js"
+    "static/js/main.7de9c719.js"
   ]
 }
