@@ -35,7 +35,7 @@ export const Education = () => {
             <div className={styles.educationText}>
               <h3>Dr. KKR Gowtham School</h3>
               <p><strong>High School (CBSE)</strong></p>
-              <p>2007 - 2019</p>
+              <p>2018 - 2019</p>
               <p>Percentage: 94.2</p>
             </div>
           </li>
