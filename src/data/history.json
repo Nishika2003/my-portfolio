@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Software Development Intern",
+    "organisation": "STAIR Digital",
+    "startDate": "Sept 2023",
+    "endDate": "Dec 2023",
+    "imageSrc": "history/stair.png",
+    "experiences": [
+      "Designed user interfaces for the internship project and 3+ additional clients; also developed their website.",
+      "Contributed to 2+ AI solutions using web scraping and large language models for NLP tasks; assisted in debugging.",
+      "Conducted research and performed financial valuations, integrating AI technologies to enhance analysis accuracy.",
+      "Drafted and maintained comprehensive project documentation for future reference."
+    ],
+    "certificate": "https://drive.google.com/file/d/1QXxjQK2cio3y-fQBucB6cHGm5mf771zE/view?usp=sharing"
+  }
+]

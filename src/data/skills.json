@@ -1,0 +1,50 @@
+[
+    {
+      "title": "DSA",
+      "imageSrc": "skills/ds.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node JS",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Express JS",
+      "imageSrc": "skills/express.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker.png"
+    },
+    {
+      "title": "Power BI",
+      "imageSrc": "skills/powerbi.png"
+    },
+    {
+      "title": "MS Excel",
+      "imageSrc": "skills/excel.png"
+    },
+    {
+      "title": "Trading",
+      "imageSrc": "skills/trading.png"
+    }
+  ]

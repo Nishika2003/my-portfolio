@@ -1,0 +1,113 @@
+@import "../../vars.css";
+
+.container {
+  padding: 80px 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--color-text);
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+}
+
+.leftSection {
+  flex: 1;
+  margin-left: 70px;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: white; 
+}
+
+
+.educationList {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  list-style: none;
+  padding: 0;
+}
+
+.educationItem {
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 20px;
+  padding: 15px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.educationItem:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+.educationItem img {
+  width: 60px;
+  height: 60px;
+  margin-right: 25px;
+  border-radius: 50%;
+  padding: 5px;
+  background: white;
+}
+
+.educationText {
+  text-align: left;
+}
+
+.educationText h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: var(--color-primary);
+}
+
+.educationText p {
+  font-size: 1rem;
+  margin: 5px 0;
+  color: var(--color-light);
+}
+
+/* Profile Picture Section */
+.rightSection {
+  flex: 0.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profileImage {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out;
+}
+
+.profileImage:hover {
+  transform: scale(1.05);
+}
+
+@media screen and (max-width: 900px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .leftSection {
+    width: 100%;
+  }
+
+  .rightSection {
+    margin-top: 40px;
+  }
+}

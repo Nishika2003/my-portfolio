@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Pocket Labs: Patent Project (Registered Company)",
+    "imageSrc": "projects/pocketlab.png",
+    "description": "Developed interactive educational kits benefiting 80% of students and collaborated with educational experts to align with curriculum standards. Led frontend development for an engaging user experience.",
+    "skills": ["Web Development", "Data Analytics", "Presentation Skills", "Team collaboration skills"]
+  },
+  {
+    "title": "SheSafe: Women’s Security App",
+    "imageSrc": "projects/shesafe.png",
+    "description": "Built an AI-powered security app featuring real-time location tracking, emergency contact alerts, and gender verification using UIDAI API and deep learning. Integrated CCTV monitoring for crime prevention, reducing crime risk by 40%.",
+    "skills": ["Python", "Twilio", "OpenCV (Machine Learning)"],
+    "source": "https://github.com/Nishika2003/Shesafe"
+  },
+  {
+    "title": "Reader: Newspaper Article Classification",
+    "imageSrc": "projects/reader.png",
+    "description": "Designed an NLP-powered news classifier achieving 70% accuracy across five categories. Utilized advanced preprocessing, feature extraction, and multiple ML algorithms, with SVM providing the best accuracy.",
+    "skills": ["Python", "BeautifulSoup", "Pandas", "Numpy", "NLTK", "scikit-learn", "NLP"],
+    "source": "https://github.com/Nishika2003/Reader"
+  },
+  {
+    "title": "Berry: AI Chatbot",
+    "imageSrc": "projects/berry.png",
+    "description": "Developed a conversational AI chatbot with context-aware responses, error handling, and conversation tracking. Validated across 50+ diverse scenarios to ensure reliability and user satisfaction.",
+    "skills": ["Python", "Flask", "Flask-CORS", "Transformers", "Generative Artificial Intelligence"],
+    "source": "https://github.com/Nishika2003/Chatbot"
+  },
+  {
+    "title": "Pawsome: Full-Stack Pet Adoption Platform",
+    "imageSrc": "projects/pawsome.png",
+    "description": "Engineered 'Pawsome,' a 17-page pet adoption platform with CRUD functionality for pets and service providers. Implemented a responsive React frontend and a scalable Node.js backend.",
+    "skills": ["HTML", "CSS", "React", "Redux", "Node.js", "Express.js", "MongoDB"],
+    "demo": "https://drive.google.com/file/d/10k6-FMxe8WdySDsO00UnONhofQAj8MUx/view?usp=sharing",
+    "source": "https://github.com/Nishika2003/Pawsome"
+  }
+]
