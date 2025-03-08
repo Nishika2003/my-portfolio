@@ -17,16 +17,9 @@
   color: var(--color-text);
 }
 
-/* 🔹 Menu Button Styles (for small screens) */
-.menuBtn {
-  display: none;  /* Hidden by default */
-  cursor: pointer;
-}
 
-/* 🔹 Fixing Large Menu & Close Icons */
-.menuIcon, .closeIcon {
-  width: 10px;  /* Adjust icon size */
-  height: 10px;
+.menuBtn {
+  display: none;
 }
 
 .menu {
@@ -45,7 +38,6 @@
   text-decoration: none;
 }
 
-/* 🔹 Responsive Design for Small Screens */
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;
@@ -63,14 +55,12 @@
   }
 
   .menuBtn {
-    display: block;  /* Show menu button on small screens */
-  }
-
-  /* 🔹 Reduce Icon Size for Mobile */
-  .menuIcon , .closeIcon {
-    width: 10px;
-    height: 10px;
-  }
+    display: block;
+    cursor: pointer;
+    width: 25px; 
+    height: 25px; 
+    object-fit: contain; 
+  }  
 
   .menuItems {
     display: none;
